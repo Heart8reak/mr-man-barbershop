@@ -8,16 +8,18 @@ const FooterPage = () => {
                 <div className="footer_top">
                     <div className="container">
                         <div className="row">
-                            <div className="col-xl-3 col-md-6 col-lg-3">
+                            <div className="col-xl-5 col-md-6 col-lg-3">
                                 <div className="footer_widget">
                                     <h3 className="footer_title">
                                         Join With Us
                   </h3>
-                                    <p className="footer_text doanar"> <a className="first" href="#">Make Appointment</a> <br />
-                                        <a href="#">+10 378 478 2789</a></p>
+                                    <p className="footer_text doanar">
+                                        <a className="first" target="_blank" href="https://www.genbook.com/bookings/slot/reservation/30329203?s=">Make Appointment</a> <br />
+                                    </p>
+
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-md-6 col-lg-3">
+                            <div className="col-xl-5 col-md-6 col-lg-3">
                                 <div className="footer_widget">
                                     <h3 className="footer_title">
                                         address
@@ -40,7 +42,7 @@ const FooterPage = () => {
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a target="_blank" href="https://www.instagram.com/mrmancollegepark/">
                                                     <i className="fa fa-instagram" />
                                                 </a>
                                             </li>
@@ -61,7 +63,7 @@ const FooterPage = () => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-xl-4 col-md-6 col-lg-4">
+                            {/* <div className="col-xl-4 col-md-6 col-lg-4">
                                 <div className="footer_widget">
                                     <h3 className="footer_title">
                                         Newsletter
@@ -72,7 +74,7 @@ const FooterPage = () => {
                                     </form>
                                     <p className="newsletter_text">Subscribe newsletter to get updates</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

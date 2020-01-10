@@ -53,14 +53,14 @@ const AboutPage = () => {
                                     <p>Inspires employees and organizations to support causes they care <br />
                                         about. We do this to bring more resources to the nonprofits that are <br />
                                         changing our world.</p>
-                                    <a href="#" className="boxed-btn3">book now</a>
+                                    <a target="_blank" href="https://www.genbook.com/bookings/slot/reservation/30329203?s=." className="boxed-btn3">book now</a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-6">
                             <div className="video_thumb">
                                 <div className="video_thumb_inner">
-                                    <img src="img/gallery/video.png" alt="" />
+                                    <img src="img/gallery/img7.png" alt="" />
                                     <a href="https://www.youtube.com/watch?v=I4NcwG-zusE" className="popup-video">
                                         <i className="fa fa-play" />
                                     </a>
@@ -86,7 +86,7 @@ const AboutPage = () => {
                         <div className="col-xl-3 col-md-6 col-lg-3">
                             <div className="single_master">
                                 <div className="thumb">
-                                    <img src="img/team/1.png" alt="" />
+                                    <img src="img/barbers/img5.png" alt="" />
                                     <div className="social_link">
                                         <a href="#"><i className="fa fa-envelope" /></a>
                                         <a href="#"><i className="fa fa-twitter" /></a>
@@ -94,15 +94,15 @@ const AboutPage = () => {
                                     </div>
                                 </div>
                                 <div className="master_name text-center">
-                                    <h3>Macau Wilium</h3>
-                                    <p>Massage Master</p>
+                                    <h3>Abbie</h3>
+                                    <p>Master</p>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xl-3 col-md-6 col-lg-3">
                             <div className="single_master">
                                 <div className="thumb">
-                                    <img src="img/team/2.png" alt="" />
+                                    <img src="img/barbers/img2.png" alt="" />
                                     <div className="social_link">
                                         <a href="#"><i className="fa fa-envelope" /></a>
                                         <a href="#"><i className="fa fa-twitter" /></a>
@@ -110,7 +110,7 @@ const AboutPage = () => {
                                     </div>
                                 </div>
                                 <div className="master_name text-center">
-                                    <h3>Dan Jacky</h3>
+                                    <h3>Barber Name</h3>
                                     <p>Mens Cut</p>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@ const AboutPage = () => {
                         <div className="col-xl-3 col-md-6 col-lg-3">
                             <div className="single_master">
                                 <div className="thumb">
-                                    <img src="img/team/3.png" alt="" />
+                                    <img src="img/barbers/img3.png" alt="" />
                                     <div className="social_link">
                                         <a href="#"><i className="fa fa-envelope" /></a>
                                         <a href="#"><i className="fa fa-twitter" /></a>
@@ -126,7 +126,7 @@ const AboutPage = () => {
                                     </div>
                                 </div>
                                 <div className="master_name text-center">
-                                    <h3>Luka Luka</h3>
+                                    <h3>Missy</h3>
                                     <p>Mens Cut</p>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@ const AboutPage = () => {
                         <div className="col-xl-3 col-md-6 col-lg-3">
                             <div className="single_master">
                                 <div className="thumb">
-                                    <img src="img/team/4.png" alt="" />
+                                    <img src="img/barbers/img4.png" alt="" />
                                     <div className="social_link">
                                         <a href="#"><i className="fa fa-envelope" /></a>
                                         <a href="#"><i className="fa fa-twitter" /></a>
@@ -142,7 +142,7 @@ const AboutPage = () => {
                                     </div>
                                 </div>
                                 <div className="master_name text-center">
-                                    <h3>Rona Dana</h3>
+                                    <h3>The One</h3>
                                     <p>Ladies Cut</p>
                                 </div>
                             </div>

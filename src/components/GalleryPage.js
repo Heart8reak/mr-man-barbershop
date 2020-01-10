@@ -18,7 +18,7 @@ const GalleryPage = () => {
                         <div className="gallery_active owl-carousel">
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/1.png" alt="" />
+                                    <img src="img/gallery/img1.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/1.png">
                                             <i className="ti-plus" />
@@ -28,7 +28,7 @@ const GalleryPage = () => {
                             </div>
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/2.png" alt="" />
+                                    <img src="img/gallery/img2.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/2.png">
                                             <i className="ti-plus" />
@@ -38,7 +38,7 @@ const GalleryPage = () => {
                             </div>
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/3.png" alt="" />
+                                    <img src="img/gallery/img3.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/3.png">
                                             <i className="ti-plus" />
@@ -48,7 +48,7 @@ const GalleryPage = () => {
                             </div>
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/1.png" alt="" />
+                                    <img src="img/gallery/img4.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/1.png">
                                             <i className="ti-plus" />
@@ -58,7 +58,7 @@ const GalleryPage = () => {
                             </div>
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/2.png" alt="" />
+                                    <img src="img/gallery/img5.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/2.png">
                                             <i className="ti-plus" />
@@ -68,7 +68,7 @@ const GalleryPage = () => {
                             </div>
                             <div className="single_gallery">
                                 <div className="thumb">
-                                    <img src="img/gallery/3.png" alt="" />
+                                    <img src="img/gallery/img6.png" alt="" />
                                     <div className="image_hover">
                                         <a className="popup-image" href="img/gallery/3.png">
                                             <i className="ti-plus" />

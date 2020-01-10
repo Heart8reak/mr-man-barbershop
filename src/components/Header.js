@@ -34,16 +34,14 @@ const Header = () => {
                             <div className="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div className="book_room">
                                     <div className="book_btn d-none d-lg-block">
-                                        <a className="popup-with-form" href="#test-form">Make an Appointment</a>
+                                        <a target="_blank" href="https://www.genbook.com/bookings/slot/reservation/30329203?s=">Make an Appointment</a>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-12">
                                 <div className="mobile_menu d-block d-lg-none">
-
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
