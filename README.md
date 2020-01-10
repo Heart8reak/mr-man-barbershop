@@ -11,13 +11,9 @@ Orlando, FL 32804
 [instagram](https://www.instagram.com/mrmancollegepark/)
 
 
-### Website
+### Link to website
+[live](https://5e18e691294adb0008391a24--brave-stonebraker-d8debe.netlify.com/)
 
 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
