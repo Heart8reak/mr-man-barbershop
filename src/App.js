@@ -5,9 +5,9 @@ import { Route } from 'react-router-dom';
 import Header from './components/Header';
 import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage';
-import GalleryPage from './components/AboutPage';
+import GalleryPage from './components/GalleryPage';
 import ServicePage from './components/ServicePage';
-import ContactPage from './components/ContactPage';
+import FooterPage from './components/FooterPage';
 
 function App() {
   return (
@@ -17,8 +17,7 @@ function App() {
       <Route path="/about" component={AboutPage}></Route>
       <Route path="/gallery" component={GalleryPage}></Route>
       <Route path="/service" component={ServicePage}></Route>
-      <Route path="/contact" component={ContactPage}></Route>
-      <HomePage />
+      <FooterPage />
     </div>
   );
 }

@@ -11,7 +11,6 @@ const Header = () => {
                 <div id="sticky-header" className="main-header-area">
                     <div className="container-fluid p-0">
                         <div className="row align-items-center no gutters">
-
                             <div className="col-xl-3 col-lg-3">
                                 <div className="logo-img">
                                     <a href="/">
@@ -27,7 +26,6 @@ const Header = () => {
                                             <li><a href="/about">About</a></li>
                                             <li><a href="/gallery">Gallery</a></li>
                                             <li><a href="/service">service</a></li>
-                                            <li><a href="/contact">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
